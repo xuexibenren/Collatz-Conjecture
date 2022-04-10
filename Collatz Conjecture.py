@@ -1,6 +1,7 @@
-# Collatz Conjecture
+# Collatz Conjecture(冰雹猜想)
 # by:xxbr
 #2022年4月10日
+#使用了copilot
 
 def bingbaocaixiang(n):
     #冰雹猜想
